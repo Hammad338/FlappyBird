@@ -65,7 +65,7 @@ FlappyBird/
 
 ---
 
-##💡 Acknowledgments
+## 💡 Acknowledgments
 
 - Inspired by the original **Flappy Bird** game by Dong Nguyen.
 - Thanks to the Unity community and Asset Store contributors.
