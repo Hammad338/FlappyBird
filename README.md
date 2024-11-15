@@ -15,18 +15,15 @@ A Unity-based clone of the classic game **Flappy Bird**, where the player contro
 
 - **Smooth gameplay mechanics**: Replicates the classic Flappy Bird physics.
 - **Dynamic pipe generation**: Pipes are spawned procedurally to ensure a unique experience every time.
-- **Pause and Resume Menu**: The player can pause the game and resume it later.
-- **Restart and Quit Options**: Restart the game anytime or quit to close the application.
 - **Score Counter**: Real-time score tracking displayed on the UI.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Unity** (version: specify your Unity version)
+- **Unity** version: Unity 6 (6000.0.23f1)
 - **C#** for game logic and mechanics
 - Unity Asset Store assets:
-  - Add any third-party assets or tools used (e.g., NPC, backgrounds).
 
 ---
 
@@ -63,7 +60,6 @@ FlappyBird/
 ## 🎯 Goals for Future Improvements
 
 - Add sound effects and background music.
-- Implement difficulty levels (e.g., easy, medium, hard).
 - Add more visual variety to the environment.
 - Include a leaderboard system to save high scores.
 
